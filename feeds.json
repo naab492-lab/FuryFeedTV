@@ -1,0 +1,18 @@
+[
+  {
+    "title": "VOLLEYBALL LIVE",
+    "satellite": "Eutelsat 16E",
+    "frequency": 12544,
+    "polarization": "H",
+    "symbolRate": 7200,
+    "key": "11 22 33 66 44 55 66 FF"
+  },
+  {
+    "title": "CHAMPIONS FEED 1",
+    "satellite": "Eutelsat 7E",
+    "frequency": 11020,
+    "polarization": "V",
+    "symbolRate": 7200,
+    "key": "AA BB CC 11 DD EE FF 22"
+  }
+]
